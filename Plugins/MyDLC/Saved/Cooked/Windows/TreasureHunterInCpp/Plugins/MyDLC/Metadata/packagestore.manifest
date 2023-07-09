@@ -1,0 +1,50 @@
+{
+	"Files": [
+		{
+			"Path": "TreasureHunterInCpp/Plugins/MyDLC/Content/CraneoFBX.uasset",
+			"ChunkId": "3618fbf24fda121500000001"
+		},
+		{
+			"Path": "TreasureHunterInCpp/Plugins/MyDLC/Content/CraneoFBX.ubulk",
+			"ChunkId": "3618fbf24fda121500000002"
+		},
+		{
+			"Path": "TreasureHunterInCpp/Plugins/MyDLC/Content/MapB.ubulk",
+			"ChunkId": "e0e31ce0a8595bf400000002"
+		},
+		{
+			"Path": "TreasureHunterInCpp/Plugins/MyDLC/Content/MapB.umap",
+			"ChunkId": "e0e31ce0a8595bf400000001"
+		},
+		{
+			"Path": "TreasureHunterInCpp/Plugins/MyDLC/Content/Material_002.uasset",
+			"ChunkId": "c27f46d301ff98af00000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/MyDLC/CraneoFBX",
+			"ExportBundleChunkIds": [
+				"3618fbf24fda121500000001"
+			],
+			"BulkDataChunkIds": [
+				"3618fbf24fda121500000002"
+			]
+		},
+		{
+			"Name": "/MyDLC/MapB",
+			"ExportBundleChunkIds": [
+				"e0e31ce0a8595bf400000001"
+			],
+			"BulkDataChunkIds": [
+				"e0e31ce0a8595bf400000002"
+			]
+		},
+		{
+			"Name": "/MyDLC/Material_002",
+			"ExportBundleChunkIds": [
+				"c27f46d301ff98af00000001"
+			]
+		}
+	]
+}

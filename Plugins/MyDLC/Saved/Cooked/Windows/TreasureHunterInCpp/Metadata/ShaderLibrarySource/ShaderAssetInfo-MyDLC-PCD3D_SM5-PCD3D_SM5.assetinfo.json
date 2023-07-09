@@ -1,0 +1,17 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3A40243A0DB13753F782B84F4EA528AD76FB8505",
+			"Assets": [
+				"/MyDLC/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "EBE677AE9F0C184268AC5E50A41B41CEF1EB21D7",
+			"Assets": [
+				"/MyDLC/MapB"
+			]
+		}
+	]
+}
